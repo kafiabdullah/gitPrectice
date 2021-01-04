@@ -1,2 +1,2 @@
-The simple Git and Github learning project.
+This is the simple Git and Github learning project.
 
